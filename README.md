@@ -1,14 +1,13 @@
-## Hi there 👋, I´m Ardian Shala
+## Hi there 👋, I'm Ardian Shala
 
-🚀 **Frontend Architect Freelancer**
+🚀 **Freelance Frontend Architect**
 
-💡 Passion for **Typescript**, Angular, and PHP
+💡 Passionate about **TypeScript**, Angular, and PHP
 
 ## Let's Connect!
 
-💬 Always open to tech discussions. Feel free to reach out!
+💬 I'm always open to discussing tech innovations and challenges. Feel free to reach out!
 
 🔗 [LinkedIn](https://www.linkedin.com/in/ardian-shala-it)
 
 📧 contact@ardianshala.de
-
