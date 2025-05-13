@@ -1,13 +1,7 @@
-## Hi there 👋, I'm Ardian Shala
+<h1 align="center">Hi there, I'm Ardian Shala</h1>
 
-🚀 **Freelance Frontend Architect**
+<p align="center">I work as an IT freelancer specialized in Frontend Technologies</p>
 
-💡 Passionate about **TypeScript**, Angular, and PHP
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oardi&layout=compact" alt="Top Langs"/></p>
 
-## Let's Connect!
-
-💬 I'm always open to discussing tech innovations and challenges. Feel free to reach out!
-
-🔗 [LinkedIn](https://www.linkedin.com/in/ardian-shala-it)
-
-📧 contact@ardianshala.de
+<p align="center">Let´s connect on <a href="https://www.linkedin.com/in/ardian-shala-it/">LinkedIn</a></p>
