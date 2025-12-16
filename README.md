@@ -13,4 +13,4 @@
 
 - 📄 read my DEV blog posts <a href="https://blog.oardi.com" target="_blank">blog.oardi.com</a>
 
-- 🚀 browse my <a href="https://stackblitz.com/@oardi" target="_blank">Stackblitz</a> Demos 
+- 🚀 browse my <a href="https://stackblitz.com/@oardi" target="_blank">Stackblitz</a> Demos and starters 
