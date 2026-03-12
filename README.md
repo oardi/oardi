@@ -1,16 +1,14 @@
 # Hi 👋, I'm Ardian Shala
 
-- I work as an IT Freelancer 👨🏼‍💻
-
-- based in Germany 🇩🇪
+- I work as an IT Freelancer based in Germany 🇩🇪
 
 - using Angular, React, Preact, ExpressJs, AstroJs
 
-- playing around with PHP Frameworks for fun side projects
+- playing around with PHP Frameworks for side projects
 
 ### Want to get in Contact?
 
-- write a mail: <a href="mailto:contact@ardianshala.de">contact@ardianshala.de</a>
+- write a mail: contact[AT]ardianshala.de
 
 - visit <a href="https://ardianshala.de" target="_blank">ardianshala.de</a> 
 
