@@ -2,7 +2,7 @@
 
 - I work as an IT Freelancer based in Germany 🇩🇪
 
-- using Angular, React, Preact, ExpressJs, AstroJs
+- using Angular, React, ExpressJs/NestJs, AstroJs
 
 - playing around with PHP Frameworks for side projects
 
